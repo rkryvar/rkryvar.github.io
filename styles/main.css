@@ -1,7 +1,13 @@
 body {
-	background-color: lightblue;
+	background-color: white;
+}
+
+nav .navbar ul {
+	list-style-type: none;
+	padding-left: 0;
 }
 
 h1{
+
 	color: navy;
 }
