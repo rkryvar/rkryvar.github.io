@@ -60,10 +60,20 @@ body {
 	margin: 0;
 	padding: 0;
 }
+.article ul li{
+       padding: 10px;
+}       
+.article ul li{
+       background-color: #333;
+       font-style: verdana, Arial;
+        
+}       
 .article ul li a{
 	text-decoration: none;
-	color: #4084d6;
+	color: #00bfff;
 }
-
-
+.article ul li a:hover {
+	background-color: #555;
+	color: #0000ff;
+}	
 
